@@ -1,0 +1,6 @@
+decouple
+django-ckeditor
+django
+django-crispy-forms
+pillow
+# mysqlclient
